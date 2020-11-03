@@ -1,0 +1,7 @@
+include ':designer'
+include ':okhttps'
+include ':day04_retrofit_login'
+include ':eventbus_fan'
+include ':app:handler_show'
+include ':app'
+rootProject.name = "Day_10_24"
